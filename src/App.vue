@@ -4,7 +4,6 @@ import TheFooter from './components/Footer.vue';
 import Shop from './components/Shop/Shop.vue';
 import Cart from './components/Cart/Cart.vue';
 import data from './data/product';
-
 import { computed, reactive } from 'vue';
 import type {
   FiltersInterface,
